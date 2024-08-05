@@ -1,0 +1,19 @@
+/* src/components/CustomerFeedback.css */
+.customer-feedback {
+  background-color: #34495e;
+  color: white;
+  padding: 20px;
+  border-radius: 10px;
+}
+
+.customer-feedback .feedback {
+  margin-bottom: 20px;
+}
+
+.customer-feedback .feedback h4 {
+  margin: 0;
+}
+
+.customer-feedback .feedback p {
+  margin: 5px 0;
+}

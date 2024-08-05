@@ -1,0 +1,6 @@
+/* src/components/Dashboard.css */
+.dashboard {
+  flex: 1;
+  padding: 20px;
+  box-sizing: border-box;
+}
